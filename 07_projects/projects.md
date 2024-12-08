@@ -1,8 +1,8 @@
-#Project related to DOM
+# Project related to DOM
 
-#Solution code
+# Solution code
 
-#Project 1
+## Project 1
 
 ```Javascript
 
