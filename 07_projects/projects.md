@@ -1,6 +1,10 @@
-Solution code
+#Project related to DOM
 
-Project 1
+#Solution code
+
+#Project 1
+
+```Javascript
 
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
@@ -24,3 +28,4 @@ buttons.forEach(function (button) {
     }
   });
 });
+````
